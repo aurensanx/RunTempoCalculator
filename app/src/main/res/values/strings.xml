@@ -1,0 +1,25 @@
+<resources>
+
+    <!--GENERAL-->
+    <string name="app_name">RunTempoCalculator</string>
+    <string name="home_description">¡Bienvenido a la calculadora de ritmos de carrera! Si rellenas el tiempo y la
+        distancia de tu última salida, te diremos a qué ritmo has corrido.
+    </string>
+
+    <!--INPUTS-->
+    <string name="timeText">Tiempo total:</string>
+    <string name="hours">Horas</string>
+    <string name="minutes">Minutos</string>
+    <string name="seconds">Segundos</string>
+    <string name="distanceText">Distancia:</string>
+    <string name="kilometers">Kilómetros</string>
+    <string name="h">h:</string>
+    <string name="m">m:</string>
+    <string name="s">s</string>
+    <string name="km">km</string>
+
+    <!--RESULTS-->
+    <string name="calculate">CALCULAR RITMO</string>
+    <string name="rythm">Tu ritmo ha sido de %1$d minutos y %2$d segundos por kilómetro</string>
+    <string name="longRythm">Tu ritmo ha sido de %1$d horas, %2$d minutos y %3$d segundos por kilómetro</string>
+</resources>
