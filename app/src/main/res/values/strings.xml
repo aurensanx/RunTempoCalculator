@@ -1,7 +1,7 @@
 <resources>
 
     <!--GENERAL-->
-    <string name="app_name">RunTempoCalculator</string>
+    <string name="app_name">Calculadora</string>
     <string name="home_description">¡Bienvenido a la calculadora de ritmos de carrera! Si rellenas el tiempo y la
         distancia de tu última salida, te diremos a qué ritmo has corrido.
     </string>
